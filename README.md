@@ -15,7 +15,7 @@ for i   in range (5):
     word = random.choice(words)
 
 
-    print("Guess the charaters")
+    print("Guess the characters")
 
     guesses = ''
 
